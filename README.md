@@ -115,6 +115,4 @@ canadian-aviation-recovery-dashboard/
 
 ## Author
 
-Adriana — built as a portfolio project to demonstrate business intelligence and analytics skills for a Business Insight Analyst role.
-
-*(Add your LinkedIn/GitHub profile link here if you'd like recruiters to reach you directly.)*
+Adriana Bernaola — built as a portfolio project to demonstrate business intelligence and analytics skills for a Business Insight Analyst role.
